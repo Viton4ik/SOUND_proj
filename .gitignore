@@ -1,0 +1,7 @@
+.venv*/
+__pycache__/
+*.py[cod]
+renders/
+assets/kokoro-v1.0.onnx
+assets/voices-v1.0.bin
+output/Full_Mix.wav
