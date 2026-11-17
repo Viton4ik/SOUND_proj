@@ -1,0 +1,46 @@
+{
+  "version": "v03",
+  "seconds": 420,
+  "video_frames": 12600,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "complete_decode": "passed",
+  "all_42_shots_exact": "passed",
+  "narration": "Kokoro am_michael",
+  "narration_overruns": 0,
+  "music": "Cylinder Seven by Chris Zabriskie / CC BY 4.0",
+  "music_hash_verified": true,
+  "rendered_motion": {
+    "beats_loop": "moving",
+    "boundary_loop": "moving",
+    "diffraction_loop": "moving",
+    "diffraction_wide_loop": "moving",
+    "doppler_loop": "moving",
+    "final_loop": "moving",
+    "frequency_loop": "moving",
+    "harmonics_loop": "moving",
+    "hearing_loop": "moving",
+    "interference_loop": "moving",
+    "interference_opposite_loop": "moving",
+    "media_loop": "moving",
+    "particle_loop": "moving",
+    "pressure_loop": "moving",
+    "room_loop": "moving",
+    "room_treated_loop": "moving",
+    "source_loop": "moving",
+    "standing_loop": "moving",
+    "vacuum_loop": "moving"
+  },
+  "models": {
+    "c_equals_f_lambda": "passed",
+    "pressure_displacement_derivative": "passed",
+    "parcel_ordering": "passed",
+    "standing_boundary_nodes": "passed",
+    "subsonic_source": "passed",
+    "retarded_time_equation": "passed"
+  },
+  "visual_review": "Selected rendered frames and the final chapter contact sheet; voice naturalness remains a listener judgement."
+}

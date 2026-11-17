@@ -1,0 +1,168 @@
+1
+00:00:00,250 --> 00:00:08,527
+Every sound begins with vibration. A whisper, a drumbeat and a passing train send different disturbances through their surroundings.
+
+2
+00:00:10,250 --> 00:00:18,293
+A vibrating surface pushes and pulls on nearby air. The disturbance travels outward, beyond the object that created it.
+
+3
+00:00:20,250 --> 00:00:26,906
+Follow one small parcel of air. The fixed cross marks its resting position. Watch the gold sphere.
+
+4
+00:00:30,250 --> 00:00:37,994
+The parcel moves forward, then backward. Its displacement is exaggerated so you can see this local motion clearly.
+
+5
+00:00:40,250 --> 00:00:47,973
+The parcel stays near its resting position. It passes the disturbance to its neighbours, rather than travelling across the room.
+
+6
+00:00:50,250 --> 00:00:59,530
+Matter oscillates locally. The travelling wave carries energy onward. These are different motions. Now let us examine the larger pattern.
+
+7
+00:01:00,250 --> 00:01:08,293
+Where neighbouring parcels crowd together, density and pressure rise above their resting values. This region is a compression.
+
+8
+00:01:10,250 --> 00:01:17,418
+Where parcels spread apart, density and pressure fall. This is a rarefaction. Both regions move with the wave.
+
+9
+00:01:20,250 --> 00:01:29,039
+In air, parcel motion is parallel to wave propagation. Sound is therefore longitudinal. The colours here represent pressure.
+
+10
+00:01:30,250 --> 00:01:38,677
+Frequency counts cycles per second. Higher frequency usually means higher pitch and, at constant speed, a shorter wavelength.
+
+11
+00:01:40,250 --> 00:01:47,909
+Pressure amplitude measures the size of the disturbance. Doubling it gives four times the intensity in the same medium.
+
+12
+00:01:50,250 --> 00:01:59,402
+A pure tone has one frequency. Instruments combine a fundamental with harmonics and changing envelopes. These features shape timbre.
+
+13
+00:02:00,250 --> 00:02:08,591
+Sound needs matter. In a vacuum, an object can keep vibrating, but ordinary sound cannot carry that vibration outward.
+
+14
+00:02:10,250 --> 00:02:19,317
+Wave speed depends on elasticity and density. Air, water and solids respond differently. Solids can also support shear waves.
+
+15
+00:02:20,250 --> 00:02:28,549
+Across a stationary boundary, frequency remains unchanged. When propagation speed changes, wavelength changes with it.
+
+16
+00:02:30,250 --> 00:02:39,125
+A boundary can reflect, transmit and absorb sound. The energy balance depends on the materials, their construction and the frequency.
+
+17
+00:02:40,250 --> 00:02:46,970
+A smooth surface can redirect a wave. A sufficiently delayed reflection is heard as a separate echo.
+
+18
+00:02:50,250 --> 00:02:59,317
+Absorption reduces reflections inside a room. Sound isolation addresses transmission between spaces, including paths around the barrier.
+
+19
+00:03:00,250 --> 00:03:08,869
+Sound spreads through openings and around edges. This diffraction explains why a doorway does not create a sharp acoustic shadow.
+
+20
+00:03:10,250 --> 00:03:18,741
+Compare the opening with the wavelength. Strong spreading occurs when their sizes are comparable. A much wider opening spreads less.
+
+21
+00:03:20,250 --> 00:03:27,994
+Contributions from different parts of the opening combine beyond it. Their path differences shape the outgoing pressure field.
+
+22
+00:03:30,250 --> 00:03:38,293
+Overlapping pressure variations add, with their positive and negative signs. In the linear regime, this is superposition.
+
+23
+00:03:40,250 --> 00:03:48,911
+Equal contributions reinforce when they arrive in phase. With coherent sources, path length and source phase determine the pattern.
+
+24
+00:03:50,250 --> 00:03:58,698
+Equal, opposite contributions can cancel at a point. Local cancellation does not make the entire surrounding region silent.
+
+25
+00:04:00,250 --> 00:04:07,674
+Nearby frequencies drift in and out of phase. Their combined level pulses in beats, at the frequency difference.
+
+26
+00:04:10,250 --> 00:04:19,530
+Equal waves travelling in opposite directions can form a standing wave. Its pattern stays in place while matter continues oscillating.
+
+27
+00:04:20,250 --> 00:04:27,055
+Displacement nodes remain still. Antinodes move most. Neighbouring nodes are half a wavelength apart.
+
+28
+00:04:30,250 --> 00:04:38,527
+Pressure and displacement nodes differ. At an ideal rigid end, displacement is zero, while the pressure variation is greatest.
+
+29
+00:04:40,250 --> 00:04:48,954
+Resonance strengthens the response near natural frequencies. Geometry selects the modes. Damping limits their strength and persistence.
+
+30
+00:04:50,250 --> 00:04:58,250
+A room adds reflected paths to the direct sound. Their timing shapes clarity, spaciousness and the character of a voice.
+
+31
+00:05:00,250 --> 00:05:09,551
+Overlapping reflections create reverberation: a decaying sound tail. Its behaviour depends on the room, the surfaces and the frequency.
+
+32
+00:05:10,250 --> 00:05:19,359
+Suitable absorption shortens that tail. Speech, recording and live music have different acoustic needs. Treatment should serve the purpose.
+
+33
+00:05:20,250 --> 00:05:29,125
+Room modes make bass uneven. Moving the source or listener changes the response, revealing strong peaks or deep cancellations.
+
+34
+00:05:30,250 --> 00:05:38,741
+Each wavefront expands from its emission position. A moving source leaves these positions behind as it continues along its path.
+
+35
+00:05:40,250 --> 00:05:48,933
+Ahead of an approaching subsonic source, fronts are closer together. They reach a stationary listener more frequently, raising the pitch.
+
+36
+00:05:50,250 --> 00:05:57,909
+Behind a receding source, fronts are farther apart. The received pitch falls, even when the emitted note stays the same.
+
+37
+00:06:00,250 --> 00:06:09,253
+In uniform, stationary air, source motion does not change propagation speed. It changes the spacing and timing of arriving fronts.
+
+38
+00:06:10,250 --> 00:06:18,271
+Pressure variations drive the eardrum. The middle ear transmits this motion onward, coupling airborne sound into the inner ear.
+
+39
+00:06:20,250 --> 00:06:29,210
+Different cochlear regions respond most strongly to different frequencies. Sensory hair cells help convert movement into neural signals.
+
+40
+00:06:30,250 --> 00:06:39,253
+The brain interprets timing, spectrum and context. These cues help us recognise voices, locate sources and understand a scene.
+
+41
+00:06:40,250 --> 00:06:48,229
+Vibration, propagation, interaction and perception connect the journey, from a moving surface to a complex sound field.
+
+42
+00:06:50,250 --> 00:06:58,805
+Matter oscillates. Energy travels. Geometry shapes the field. At the end of this physical journey, a listener hears a world.
+

@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Nimbus Sans,62,&H00F7F3EC,&H00FFFFFF,&H00150D07,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,100,100,105,1
+Style: Detail,Nimbus Sans,34,&H00E3CFAC,&H00FFFFFF,&H00150D07,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,102,100,190,1
+Style: Note,Nimbus Sans,22,&H00CBBCA5,&H00FFFFFF,&H00150D07,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,100,100,60,1
+Style: Counter,Nimbus Sans,21,&H00CBBCA5,&H00FFFFFF,&H00150D07,&H00000000,0,0,0,0,100,100,1,0,1,1,0,9,100,100,55,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Title,,0,0,0,,{\fad(350,150)}SOUND / A FIELD IN MOTION
+Dialogue: 0,0:00:00.00,0:00:10.00,Detail,,0,0,0,,{\fad(350,150)}An invisible journey
+Dialogue: 0,0:00:10.00,0:00:20.00,Title,,0,0,0,,{\fad(350,150)}Everything starts with vibration
+Dialogue: 0,0:00:10.00,0:00:20.00,Detail,,0,0,0,,{\fad(350,150)}A source disturbs its surroundings
+Dialogue: 0,0:00:20.00,0:00:30.00,Title,,0,0,0,,{\fad(350,150)}Follow one parcel of air
+Dialogue: 0,0:00:20.00,0:00:30.00,Detail,,0,0,0,,{\fad(350,150)}The marker shows its resting position
+Dialogue: 0,0:00:30.00,0:00:40.00,Title,,0,0,0,,{\fad(350,150)}Back and forth
+Dialogue: 0,0:00:30.00,0:00:40.00,Detail,,0,0,0,,{\fad(350,150)}Displacement is exaggerated
+Dialogue: 0,0:00:40.00,0:00:50.00,Title,,0,0,0,,{\fad(350,150)}The wave travels onward
+Dialogue: 0,0:00:40.00,0:00:50.00,Detail,,0,0,0,,{\fad(350,150)}The parcel stays near its equilibrium
+Dialogue: 0,0:00:50.00,0:01:00.00,Title,,0,0,0,,{\fad(350,150)}Local motion. Travelling energy.
+Dialogue: 0,0:00:50.00,0:01:00.00,Detail,,0,0,0,,{\fad(350,150)}These are different movements
+Dialogue: 0,0:01:00.00,0:01:10.00,Title,,0,0,0,,{\fad(350,150)}Compression
+Dialogue: 0,0:01:00.00,0:01:10.00,Detail,,0,0,0,,{\fad(350,150)}Parcels are closer together
+Dialogue: 0,0:01:10.00,0:01:20.00,Title,,0,0,0,,{\fad(350,150)}Rarefaction
+Dialogue: 0,0:01:10.00,0:01:20.00,Detail,,0,0,0,,{\fad(350,150)}Parcels are farther apart
+Dialogue: 0,0:01:20.00,0:01:30.00,Title,,0,0,0,,{\fad(350,150)}A longitudinal wave
+Dialogue: 0,0:01:20.00,0:01:30.00,Detail,,0,0,0,,{\fad(350,150)}Motion is parallel to propagation
+Dialogue: 0,0:01:30.00,0:01:40.00,Title,,0,0,0,,{\fad(350,150)}Frequency sets the pace
+Dialogue: 0,0:01:30.00,0:01:40.00,Detail,,0,0,0,,{\fad(350,150)}More cycles per second: higher pitch
+Dialogue: 0,0:01:40.00,0:01:50.00,Title,,0,0,0,,{\fad(350,150)}Amplitude and intensity
+Dialogue: 0,0:01:40.00,0:01:50.00,Detail,,0,0,0,,{\fad(350,150)}Greater pressure variation carries more intensity
+Dialogue: 0,0:01:50.00,0:02:00.00,Title,,0,0,0,,{\fad(350,150)}One note. Different colours.
+Dialogue: 0,0:01:50.00,0:02:00.00,Detail,,0,0,0,,{\fad(350,150)}Harmonics shape timbre
+Dialogue: 0,0:02:00.00,0:02:10.00,Title,,0,0,0,,{\fad(350,150)}Sound needs a medium
+Dialogue: 0,0:02:00.00,0:02:10.00,Detail,,0,0,0,,{\fad(350,150)}No material medium: no ordinary sound
+Dialogue: 0,0:02:10.00,0:02:20.00,Title,,0,0,0,,{\fad(350,150)}Different media. Different speeds.
+Dialogue: 0,0:02:10.00,0:02:20.00,Detail,,0,0,0,,{\fad(350,150)}Elasticity and density both matter
+Dialogue: 0,0:02:20.00,0:02:30.00,Title,,0,0,0,,{\fad(350,150)}At a stationary boundary
+Dialogue: 0,0:02:20.00,0:02:30.00,Detail,,0,0,0,,{\fad(350,150)}Frequency stays. Wavelength can change.
+Dialogue: 0,0:02:30.00,0:02:40.00,Title,,0,0,0,,{\fad(350,150)}A surface splits the journey
+Dialogue: 0,0:02:30.00,0:02:40.00,Detail,,0,0,0,,{\fad(350,150)}Reflection / transmission / absorption
+Dialogue: 0,0:02:40.00,0:02:50.00,Title,,0,0,0,,{\fad(350,150)}Reflection changes direction
+Dialogue: 0,0:02:40.00,0:02:50.00,Detail,,0,0,0,,{\fad(350,150)}A smooth surface redirects the wave
+Dialogue: 0,0:02:50.00,0:03:00.00,Title,,0,0,0,,{\fad(350,150)}Absorption is not soundproofing
+Dialogue: 0,0:02:50.00,0:03:00.00,Detail,,0,0,0,,{\fad(350,150)}Reducing reflections does not guarantee isolation
+Dialogue: 0,0:03:00.00,0:03:10.00,Title,,0,0,0,,{\fad(350,150)}Sound spreads through openings
+Dialogue: 0,0:03:00.00,0:03:10.00,Detail,,0,0,0,,{\fad(350,150)}Diffraction
+Dialogue: 0,0:03:10.00,0:03:20.00,Title,,0,0,0,,{\fad(350,150)}Compare opening and wavelength
+Dialogue: 0,0:03:10.00,0:03:20.00,Detail,,0,0,0,,{\fad(350,150)}Width near one wavelength: strong spreading
+Dialogue: 0,0:03:20.00,0:03:30.00,Title,,0,0,0,,{\fad(350,150)}Geometry shapes the field
+Dialogue: 0,0:03:20.00,0:03:30.00,Detail,,0,0,0,,{\fad(350,150)}The parts of a wavefront interfere
+Dialogue: 0,0:03:30.00,0:03:40.00,Title,,0,0,0,,{\fad(350,150)}When waves meet
+Dialogue: 0,0:03:30.00,0:03:40.00,Detail,,0,0,0,,{\fad(350,150)}Pressure variations add
+Dialogue: 0,0:03:40.00,0:03:50.00,Title,,0,0,0,,{\fad(350,150)}In phase
+Dialogue: 0,0:03:40.00,0:03:50.00,Detail,,0,0,0,,{\fad(350,150)}Equal contributions reinforce
+Dialogue: 0,0:03:50.00,0:04:00.00,Title,,0,0,0,,{\fad(350,150)}Opposite phase
+Dialogue: 0,0:03:50.00,0:04:00.00,Detail,,0,0,0,,{\fad(350,150)}Equal contributions can cancel locally
+Dialogue: 0,0:04:00.00,0:04:10.00,Title,,0,0,0,,{\fad(350,150)}A small difference creates beats
+Dialogue: 0,0:04:00.00,0:04:10.00,Detail,,0,0,0,,{\fad(350,150)}Nearby frequencies make the level pulse
+Dialogue: 0,0:04:10.00,0:04:20.00,Title,,0,0,0,,{\fad(350,150)}A wave meets its reflection
+Dialogue: 0,0:04:10.00,0:04:20.00,Detail,,0,0,0,,{\fad(350,150)}Standing patterns can form
+Dialogue: 0,0:04:20.00,0:04:30.00,Title,,0,0,0,,{\fad(350,150)}Nodes and antinodes
+Dialogue: 0,0:04:20.00,0:04:30.00,Detail,,0,0,0,,{\fad(350,150)}Neighbouring nodes are half a wavelength apart
+Dialogue: 0,0:04:30.00,0:04:40.00,Title,,0,0,0,,{\fad(350,150)}Pressure is a different field
+Dialogue: 0,0:04:30.00,0:04:40.00,Detail,,0,0,0,,{\fad(350,150)}Pressure and displacement nodes do not coincide
+Dialogue: 0,0:04:40.00,0:04:50.00,Title,,0,0,0,,{\fad(350,150)}Resonance selects frequencies
+Dialogue: 0,0:04:40.00,0:04:50.00,Detail,,0,0,0,,{\fad(350,150)}Boundaries and damping matter
+Dialogue: 0,0:04:50.00,0:05:00.00,Title,,0,0,0,,{\fad(350,150)}A room becomes part of the instrument
+Dialogue: 0,0:04:50.00,0:05:00.00,Detail,,0,0,0,,{\fad(350,150)}Many reflections overlap
+Dialogue: 0,0:05:00.00,0:05:10.00,Title,,0,0,0,,{\fad(350,150)}Reverberation
+Dialogue: 0,0:05:00.00,0:05:10.00,Detail,,0,0,0,,{\fad(350,150)}A dense tail of decaying reflections
+Dialogue: 0,0:05:10.00,0:05:20.00,Title,,0,0,0,,{\fad(350,150)}Change the surfaces
+Dialogue: 0,0:05:10.00,0:05:20.00,Detail,,0,0,0,,{\fad(350,150)}Absorption changes the decay
+Dialogue: 0,0:05:20.00,0:05:30.00,Title,,0,0,0,,{\fad(350,150)}Change the listening position
+Dialogue: 0,0:05:20.00,0:05:30.00,Detail,,0,0,0,,{\fad(350,150)}Room modes can make bass uneven
+Dialogue: 0,0:05:30.00,0:05:40.00,Title,,0,0,0,,{\fad(350,150)}A source in motion
+Dialogue: 0,0:05:30.00,0:05:40.00,Detail,,0,0,0,,{\fad(350,150)}Each wavefront remembers its emission point
+Dialogue: 0,0:05:40.00,0:05:50.00,Title,,0,0,0,,{\fad(350,150)}Closer fronts ahead
+Dialogue: 0,0:05:40.00,0:05:50.00,Detail,,0,0,0,,{\fad(350,150)}An approaching source sounds higher
+Dialogue: 0,0:05:50.00,0:06:00.00,Title,,0,0,0,,{\fad(350,150)}Wider spacing behind
+Dialogue: 0,0:05:50.00,0:06:00.00,Detail,,0,0,0,,{\fad(350,150)}A receding source sounds lower
+Dialogue: 0,0:06:00.00,0:06:10.00,Title,,0,0,0,,{\fad(350,150)}The medium still sets the wave speed
+Dialogue: 0,0:06:00.00,0:06:10.00,Detail,,0,0,0,,{\fad(350,150)}Motion changes arrival timing
+Dialogue: 0,0:06:10.00,0:06:20.00,Title,,0,0,0,,{\fad(350,150)}From air to hearing
+Dialogue: 0,0:06:10.00,0:06:20.00,Detail,,0,0,0,,{\fad(350,150)}The eardrum responds to pressure
+Dialogue: 0,0:06:20.00,0:06:30.00,Title,,0,0,0,,{\fad(350,150)}The inner ear separates frequencies
+Dialogue: 0,0:06:20.00,0:06:30.00,Detail,,0,0,0,,{\fad(350,150)}Different regions respond most strongly
+Dialogue: 0,0:06:30.00,0:06:40.00,Title,,0,0,0,,{\fad(350,150)}The brain builds the experience
+Dialogue: 0,0:06:30.00,0:06:40.00,Detail,,0,0,0,,{\fad(350,150)}Timing / spectrum / context
+Dialogue: 0,0:06:40.00,0:06:50.00,Title,,0,0,0,,{\fad(350,150)}One connected story
+Dialogue: 0,0:06:40.00,0:06:50.00,Detail,,0,0,0,,{\fad(350,150)}Vibration becomes a travelling disturbance
+Dialogue: 0,0:06:50.00,0:07:00.00,Title,,0,0,0,,{\fad(350,150)}Sound transfers energy
+Dialogue: 0,0:06:50.00,0:07:00.00,Detail,,0,0,0,,{\fad(350,150)}Matter oscillates. The story travels.
+Dialogue: 0,0:00:00.00,0:07:00.00,Counter,,0,0,0,,SOUND / A FIELD IN MOTION
+Dialogue: 0,0:06:50.00,0:07:00.00,Note,,0,0,150,,Music: Cylinder Seven by Chris Zabriskie / Album: Cylinders
+Dialogue: 0,0:06:50.00,0:07:00.00,Note,,0,0,115,,CC BY 4.0 / creativecommons.org/licenses/by/4.0/ / chriszabriskie.com

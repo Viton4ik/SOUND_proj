@@ -1,0 +1,11 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Nimbus Sans,62,&H00F7F3EC,&H00FFFFFF,&H00150D07,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,100,100,105,1
+Style: Detail,Nimbus Sans,34,&H00E3CFAC,&H00FFFFFF,&H00150D07,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,102,100,190,1
+Style: Note,Nimbus Sans,22,&H00CBBCA5,&H00FFFFFF,&H00150D07,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,100,100,60,1
+Style: Counter,Nimbus Sans,21,&H00CBBCA5,&H00FFFFFF,&H00150D07,&H00000000,0,0,0,0,100,100,1,0,1,1,0,9,100,100,55,1

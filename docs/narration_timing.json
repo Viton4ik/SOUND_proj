@@ -1,0 +1,296 @@
+[
+  {
+    "index": 1,
+    "start": 0.25,
+    "duration": 8.277333333333333,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 2,
+    "start": 10.25,
+    "duration": 8.042666666666667,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 3,
+    "start": 20.25,
+    "duration": 6.656,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 4,
+    "start": 30.25,
+    "duration": 7.744,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 5,
+    "start": 40.25,
+    "duration": 7.722666666666667,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 6,
+    "start": 50.25,
+    "duration": 9.28,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 7,
+    "start": 60.25,
+    "duration": 8.042666666666667,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 8,
+    "start": 70.25,
+    "duration": 7.168,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 9,
+    "start": 80.25,
+    "duration": 8.789333333333333,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 10,
+    "start": 90.25,
+    "duration": 8.426666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 11,
+    "start": 100.25,
+    "duration": 7.658666666666667,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 12,
+    "start": 110.25,
+    "duration": 9.152,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 13,
+    "start": 120.25,
+    "duration": 8.341333333333333,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 14,
+    "start": 130.25,
+    "duration": 9.066666666666666,
+    "voice": "am_michael",
+    "speed": 1.1111515151515152
+  },
+  {
+    "index": 15,
+    "start": 140.25,
+    "duration": 8.298666666666668,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 16,
+    "start": 150.25,
+    "duration": 8.874666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 17,
+    "start": 160.25,
+    "duration": 6.72,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 18,
+    "start": 170.25,
+    "duration": 9.066666666666666,
+    "voice": "am_michael",
+    "speed": 1.1386181818181818
+  },
+  {
+    "index": 19,
+    "start": 180.25,
+    "duration": 8.618666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 20,
+    "start": 190.25,
+    "duration": 8.490666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 21,
+    "start": 200.25,
+    "duration": 7.744,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 22,
+    "start": 210.25,
+    "duration": 8.042666666666667,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 23,
+    "start": 220.25,
+    "duration": 8.661333333333333,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 24,
+    "start": 230.25,
+    "duration": 8.448,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 25,
+    "start": 240.25,
+    "duration": 7.424,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 26,
+    "start": 250.25,
+    "duration": 9.28,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 27,
+    "start": 260.25,
+    "duration": 6.8053333333333335,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 28,
+    "start": 270.25,
+    "duration": 8.277333333333333,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 29,
+    "start": 280.25,
+    "duration": 8.704,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 30,
+    "start": 290.25,
+    "duration": 8.0,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 31,
+    "start": 300.25,
+    "duration": 9.301333333333334,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 32,
+    "start": 310.25,
+    "duration": 9.109333333333334,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 33,
+    "start": 320.25,
+    "duration": 8.874666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 34,
+    "start": 330.25,
+    "duration": 8.490666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 35,
+    "start": 340.25,
+    "duration": 8.682666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 36,
+    "start": 350.25,
+    "duration": 7.658666666666667,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 37,
+    "start": 360.25,
+    "duration": 9.002666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 38,
+    "start": 370.25,
+    "duration": 8.021333333333333,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 39,
+    "start": 380.25,
+    "duration": 8.96,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 40,
+    "start": 390.25,
+    "duration": 9.002666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 41,
+    "start": 400.25,
+    "duration": 7.978666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  },
+  {
+    "index": 42,
+    "start": 410.25,
+    "duration": 8.554666666666666,
+    "voice": "am_michael",
+    "speed": 1.03
+  }
+]

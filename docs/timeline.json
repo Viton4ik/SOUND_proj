@@ -1,0 +1,422 @@
+[
+  {
+    "index": 1,
+    "start": 0,
+    "end": 10,
+    "scene": "source",
+    "heading": "SOUND / A FIELD IN MOTION",
+    "screen": "An invisible journey",
+    "voice": "Every sound begins with vibration. A whisper, a drumbeat and a passing train send different disturbances through their surroundings.",
+    "ru": "Знакомство со звуком: разные источники объединены механическими колебаниями."
+  },
+  {
+    "index": 2,
+    "start": 10,
+    "end": 20,
+    "scene": "source",
+    "heading": "Everything starts with vibration",
+    "screen": "A source disturbs its surroundings",
+    "voice": "A vibrating surface pushes and pulls on nearby air. The disturbance travels outward, beyond the object that created it.",
+    "ru": "Колеблющаяся поверхность воздействует на окружающий воздух; возмущение распространяется дальше источника."
+  },
+  {
+    "index": 3,
+    "start": 20,
+    "end": 30,
+    "scene": "particle",
+    "heading": "Follow one parcel of air",
+    "screen": "The marker shows its resting position",
+    "voice": "Follow one small parcel of air. The fixed cross marks its resting position. Watch the gold sphere.",
+    "ru": "Крупный план одной золотой частицы, представляющей малый объём воздуха. Неподвижная метка отмечает положение равновесия."
+  },
+  {
+    "index": 4,
+    "start": 30,
+    "end": 40,
+    "scene": "particle",
+    "heading": "Back and forth",
+    "screen": "Displacement is exaggerated",
+    "voice": "The parcel moves forward, then backward. Its displacement is exaggerated so you can see this local motion clearly.",
+    "ru": "Длительное наблюдение за движением вперёд и назад. Амплитуда условно увеличена."
+  },
+  {
+    "index": 5,
+    "start": 40,
+    "end": 50,
+    "scene": "particle",
+    "heading": "The wave travels onward",
+    "screen": "The parcel stays near its equilibrium",
+    "voice": "The parcel stays near its resting position. It passes the disturbance to its neighbours, rather than travelling across the room.",
+    "ru": "Волна проходит через среду, выделенный объём остаётся возле метки. Именно это должно устранить непонятность первого пилота."
+  },
+  {
+    "index": 6,
+    "start": 50,
+    "end": 60,
+    "scene": "particle",
+    "heading": "Local motion. Travelling energy.",
+    "screen": "These are different movements",
+    "voice": "Matter oscillates locally. The travelling wave carries energy onward. These are different motions. Now let us examine the larger pattern.",
+    "ru": "Разделяем локальное движение вещества и перенос энергии. Камера готовится перейти к общему виду."
+  },
+  {
+    "index": 7,
+    "start": 60,
+    "end": 70,
+    "scene": "pressure",
+    "heading": "Compression",
+    "screen": "Parcels are closer together",
+    "voice": "Where neighbouring parcels crowd together, density and pressure rise above their resting values. This region is a compression.",
+    "ru": "Янтарным показано сжатие: повышение плотности и давления относительно равновесия."
+  },
+  {
+    "index": 8,
+    "start": 70,
+    "end": 80,
+    "scene": "pressure",
+    "heading": "Rarefaction",
+    "screen": "Parcels are farther apart",
+    "voice": "Where parcels spread apart, density and pressure fall. This is a rarefaction. Both regions move with the wave.",
+    "ru": "Голубым показано разрежение. Области сжатия и разрежения последовательно распространяются."
+  },
+  {
+    "index": 9,
+    "start": 80,
+    "end": 90,
+    "scene": "pressure",
+    "heading": "A longitudinal wave",
+    "screen": "Motion is parallel to propagation",
+    "voice": "In air, parcel motion is parallel to wave propagation. Sound is therefore longitudinal. The colours here represent pressure.",
+    "ru": "Продольная волна: движение параллельно направлению распространения. Цвет условен; это не буквальный вид воздуха."
+  },
+  {
+    "index": 10,
+    "start": 90,
+    "end": 100,
+    "scene": "frequency",
+    "heading": "Frequency sets the pace",
+    "screen": "More cycles per second: higher pitch",
+    "voice": "Frequency counts cycles per second. Higher frequency usually means higher pitch and, at constant speed, a shorter wavelength.",
+    "ru": "Частота и воспринимаемая высота тона. При неизменной скорости увеличение частоты сокращает длину волны."
+  },
+  {
+    "index": 11,
+    "start": 100,
+    "end": 110,
+    "scene": "frequency",
+    "heading": "Amplitude and intensity",
+    "screen": "Greater pressure variation carries more intensity",
+    "voice": "Pressure amplitude measures the size of the disturbance. Doubling it gives four times the intensity in the same medium.",
+    "ru": "Амплитуда давления и интенсивность. Это не утверждение о четырёхкратной субъективной громкости."
+  },
+  {
+    "index": 12,
+    "start": 110,
+    "end": 120,
+    "scene": "frequency",
+    "heading": "One note. Different colours.",
+    "screen": "Harmonics shape timbre",
+    "voice": "A pure tone has one frequency. Instruments combine a fundamental with harmonics and changing envelopes. These features shape timbre.",
+    "ru": "Тембр определяется спектром и временной формой звука; сравниваем чистый тон и гармонический состав."
+  },
+  {
+    "index": 13,
+    "start": 120,
+    "end": 130,
+    "scene": "media",
+    "heading": "Sound needs a medium",
+    "screen": "No material medium: no ordinary sound",
+    "voice": "Sound needs matter. In a vacuum, an object can keep vibrating, but ordinary sound cannot carry that vibration outward.",
+    "ru": "Звук требует материальной среды. В вакууме источник может вибрировать, но обычная звуковая волна не распространяется."
+  },
+  {
+    "index": 14,
+    "start": 130,
+    "end": 140,
+    "scene": "media",
+    "heading": "Different media. Different speeds.",
+    "screen": "Elasticity and density both matter",
+    "voice": "Wave speed depends on elasticity and density. Air, water and solids respond differently. Solids can also support shear waves.",
+    "ru": "Скорость зависит от упругости и плотности. В твёрдых телах возможны также поперечные упругие волны."
+  },
+  {
+    "index": 15,
+    "start": 140,
+    "end": 150,
+    "scene": "media",
+    "heading": "At a stationary boundary",
+    "screen": "Frequency stays. Wavelength can change.",
+    "voice": "Across a stationary boundary, frequency remains unchanged. When propagation speed changes, wavelength changes with it.",
+    "ru": "На неподвижной границе частота сохраняется, изменение скорости сопровождается изменением длины волны."
+  },
+  {
+    "index": 16,
+    "start": 150,
+    "end": 160,
+    "scene": "boundary",
+    "heading": "A surface splits the journey",
+    "screen": "Reflection / transmission / absorption",
+    "voice": "A boundary can reflect, transmit and absorb sound. The energy balance depends on the materials, their construction and the frequency.",
+    "ru": "Показываем отражение, прохождение и поглощение; доли энергии зависят от материала и конструкции."
+  },
+  {
+    "index": 17,
+    "start": 160,
+    "end": 170,
+    "scene": "boundary",
+    "heading": "Reflection changes direction",
+    "screen": "A smooth surface redirects the wave",
+    "voice": "A smooth surface can redirect a wave. A sufficiently delayed reflection is heard as a separate echo.",
+    "ru": "Схематическая геометрия отражения. Эхо слышится отдельно при достаточной временной задержке."
+  },
+  {
+    "index": 18,
+    "start": 170,
+    "end": 180,
+    "scene": "boundary",
+    "heading": "Absorption is not soundproofing",
+    "screen": "Reducing reflections does not guarantee isolation",
+    "voice": "Absorption reduces reflections inside a room. Sound isolation addresses transmission between spaces, including paths around the barrier.",
+    "ru": "Различаем акустическую обработку помещения и звукоизоляцию, включая обходные пути передачи."
+  },
+  {
+    "index": 19,
+    "start": 180,
+    "end": 190,
+    "scene": "diffraction",
+    "heading": "Sound spreads through openings",
+    "screen": "Diffraction",
+    "voice": "Sound spreads through openings and around edges. This diffraction explains why a doorway does not create a sharp acoustic shadow.",
+    "ru": "Волна огибает края и расходится за щелью. Начало объяснения дифракции."
+  },
+  {
+    "index": 20,
+    "start": 190,
+    "end": 200,
+    "scene": "diffraction",
+    "heading": "Compare opening and wavelength",
+    "screen": "Width near one wavelength: strong spreading",
+    "voice": "Compare the opening with the wavelength. Strong spreading occurs when their sizes are comparable. A much wider opening spreads less.",
+    "ru": "Ключевое отношение: ширина отверстия к длине волны. Не обещаем универсальную картину для любой геометрии."
+  },
+  {
+    "index": 21,
+    "start": 200,
+    "end": 210,
+    "scene": "diffraction",
+    "heading": "Geometry shapes the field",
+    "screen": "The parts of a wavefront interfere",
+    "voice": "Contributions from different parts of the opening combine beyond it. Their path differences shape the outgoing pressure field.",
+    "ru": "Вклад разных участков отверстия суммируется с учётом разности хода. Фронт определяется геометрией."
+  },
+  {
+    "index": 22,
+    "start": 210,
+    "end": 220,
+    "scene": "interference",
+    "heading": "When waves meet",
+    "screen": "Pressure variations add",
+    "voice": "Overlapping pressure variations add, with their positive and negative signs. In the linear regime, this is superposition.",
+    "ru": "Интерференция: складываем знаковые отклонения давления в линейном режиме."
+  },
+  {
+    "index": 23,
+    "start": 220,
+    "end": 230,
+    "scene": "interference",
+    "heading": "In phase",
+    "screen": "Equal contributions reinforce",
+    "voice": "Equal contributions reinforce when they arrive in phase. With coherent sources, path length and source phase determine the pattern.",
+    "ru": "Синфазные равные вклады усиливаются. Расположение зон зависит от фаз и расстояний до источников."
+  },
+  {
+    "index": 24,
+    "start": 230,
+    "end": 240,
+    "scene": "interference",
+    "heading": "Opposite phase",
+    "screen": "Equal contributions can cancel locally",
+    "voice": "Equal, opposite contributions can cancel at a point. Local cancellation does not make the entire surrounding region silent.",
+    "ru": "Противофазные равные вклады могут компенсироваться в точке, но не обязательно во всём пространстве."
+  },
+  {
+    "index": 25,
+    "start": 240,
+    "end": 250,
+    "scene": "interference",
+    "heading": "A small difference creates beats",
+    "screen": "Nearby frequencies make the level pulse",
+    "voice": "Nearby frequencies drift in and out of phase. Their combined level pulses in beats, at the frequency difference.",
+    "ru": "Биения: близкие частоты создают изменение амплитуды с частотой, равной разности частот."
+  },
+  {
+    "index": 26,
+    "start": 250,
+    "end": 260,
+    "scene": "standing",
+    "heading": "A wave meets its reflection",
+    "screen": "Standing patterns can form",
+    "voice": "Equal waves travelling in opposite directions can form a standing wave. Its pattern stays in place while matter continues oscillating.",
+    "ru": "Встречные равные волны формируют стоячую волну. Неподвижность рисунка не означает отсутствие колебаний среды."
+  },
+  {
+    "index": 27,
+    "start": 260,
+    "end": 270,
+    "scene": "standing",
+    "heading": "Nodes and antinodes",
+    "screen": "Neighbouring nodes are half a wavelength apart",
+    "voice": "Displacement nodes remain still. Antinodes move most. Neighbouring nodes are half a wavelength apart.",
+    "ru": "Узлы и пучности смещения. Расстояние между соседними узлами равно половине длины волны."
+  },
+  {
+    "index": 28,
+    "start": 270,
+    "end": 280,
+    "scene": "standing",
+    "heading": "Pressure is a different field",
+    "screen": "Pressure and displacement nodes do not coincide",
+    "voice": "Pressure and displacement nodes differ. At an ideal rigid end, displacement is zero, while the pressure variation is greatest.",
+    "ru": "Различаем узлы давления и смещения. У жёсткого торца узел смещения и пучность давления."
+  },
+  {
+    "index": 29,
+    "start": 280,
+    "end": 290,
+    "scene": "standing",
+    "heading": "Resonance selects frequencies",
+    "screen": "Boundaries and damping matter",
+    "voice": "Resonance strengthens the response near natural frequencies. Geometry selects the modes. Damping limits their strength and persistence.",
+    "ru": "Резонанс зависит от собственных частот и потерь. Амплитуда не возрастает бесконечно."
+  },
+  {
+    "index": 30,
+    "start": 290,
+    "end": 300,
+    "scene": "room",
+    "heading": "A room becomes part of the instrument",
+    "screen": "Many reflections overlap",
+    "voice": "A room adds reflected paths to the direct sound. Their timing shapes clarity, spaciousness and the character of a voice.",
+    "ru": "Комната как часть акустической системы. Прямой и отражённый звук формируют воспринимаемую картину."
+  },
+  {
+    "index": 31,
+    "start": 300,
+    "end": 310,
+    "scene": "room",
+    "heading": "Reverberation",
+    "screen": "A dense tail of decaying reflections",
+    "voice": "Overlapping reflections create reverberation: a decaying sound tail. Its behaviour depends on the room, the surfaces and the frequency.",
+    "ru": "Реверберация: плотный затухающий хвост отражений, зависящий от частоты и помещения."
+  },
+  {
+    "index": 32,
+    "start": 310,
+    "end": 320,
+    "scene": "room",
+    "heading": "Change the surfaces",
+    "screen": "Absorption changes the decay",
+    "voice": "Suitable absorption shortens that tail. Speech, recording and live music have different acoustic needs. Treatment should serve the purpose.",
+    "ru": "Подходящее поглощение меняет затухание. Решение зависит от назначения помещения."
+  },
+  {
+    "index": 33,
+    "start": 320,
+    "end": 330,
+    "scene": "room",
+    "heading": "Change the listening position",
+    "screen": "Room modes can make bass uneven",
+    "voice": "Room modes make bass uneven. Moving the source or listener changes the response, revealing strong peaks or deep cancellations.",
+    "ru": "Низкочастотные моды создают неравномерность. Положение источника и слушателя влияет на результат."
+  },
+  {
+    "index": 34,
+    "start": 330,
+    "end": 340,
+    "scene": "doppler",
+    "heading": "A source in motion",
+    "screen": "Each wavefront remembers its emission point",
+    "voice": "Each wavefront expands from its emission position. A moving source leaves these positions behind as it continues along its path.",
+    "ru": "Движущийся источник: каждый фронт имеет центр в точке испускания, а не в текущем положении источника."
+  },
+  {
+    "index": 35,
+    "start": 340,
+    "end": 350,
+    "scene": "doppler",
+    "heading": "Closer fronts ahead",
+    "screen": "An approaching source sounds higher",
+    "voice": "Ahead of an approaching subsonic source, fronts are closer together. They reach a stationary listener more frequently, raising the pitch.",
+    "ru": "Перед дозвуковым источником фронты сближены. Неподвижный слушатель слышит повышенную частоту."
+  },
+  {
+    "index": 36,
+    "start": 350,
+    "end": 360,
+    "scene": "doppler",
+    "heading": "Wider spacing behind",
+    "screen": "A receding source sounds lower",
+    "voice": "Behind a receding source, fronts are farther apart. The received pitch falls, even when the emitted note stays the same.",
+    "ru": "Позади источника фронты раздвинуты. Частота источника может оставаться неизменной."
+  },
+  {
+    "index": 37,
+    "start": 360,
+    "end": 370,
+    "scene": "doppler",
+    "heading": "The medium still sets the wave speed",
+    "screen": "Motion changes arrival timing",
+    "voice": "In uniform, stationary air, source motion does not change propagation speed. It changes the spacing and timing of arriving fronts.",
+    "ru": "В неподвижной однородной среде движение источника не меняет скорость распространения относительно среды."
+  },
+  {
+    "index": 38,
+    "start": 370,
+    "end": 380,
+    "scene": "hearing",
+    "heading": "From air to hearing",
+    "screen": "The eardrum responds to pressure",
+    "voice": "Pressure variations drive the eardrum. The middle ear transmits this motion onward, coupling airborne sound into the inner ear.",
+    "ru": "Схематический переход от колебаний давления к барабанной перепонке, среднему и внутреннему уху."
+  },
+  {
+    "index": 39,
+    "start": 380,
+    "end": 390,
+    "scene": "hearing",
+    "heading": "The inner ear separates frequencies",
+    "screen": "Different regions respond most strongly",
+    "voice": "Different cochlear regions respond most strongly to different frequencies. Sensory hair cells help convert movement into neural signals.",
+    "ru": "В улитке разные участки базилярной мембраны чувствительны к разным частотам. Волосковые клетки участвуют в преобразовании."
+  },
+  {
+    "index": 40,
+    "start": 390,
+    "end": 400,
+    "scene": "hearing",
+    "heading": "The brain builds the experience",
+    "screen": "Timing / spectrum / context",
+    "voice": "The brain interprets timing, spectrum and context. These cues help us recognise voices, locate sources and understand a scene.",
+    "ru": "Мозг интерпретирует сигналы: узнавание голоса, определение направления и контекста."
+  },
+  {
+    "index": 41,
+    "start": 400,
+    "end": 410,
+    "scene": "final",
+    "heading": "One connected story",
+    "screen": "Vibration becomes a travelling disturbance",
+    "voice": "Vibration, propagation, interaction and perception connect the journey, from a moving surface to a complex sound field.",
+    "ru": "Возвращаемся к общей истории: источник, среда, взаимодействия и восприятие."
+  },
+  {
+    "index": 42,
+    "start": 410,
+    "end": 420,
+    "scene": "final",
+    "heading": "Sound transfers energy",
+    "screen": "Matter oscillates. The story travels.",
+    "voice": "Matter oscillates. Energy travels. Geometry shapes the field. At the end of this physical journey, a listener hears a world.",
+    "ru": "Финал: вещество колеблется, энергия переносится, геометрия формирует поле, слушатель воспринимает звук."
+  }
+]
